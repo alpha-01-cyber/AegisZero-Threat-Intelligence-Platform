@@ -1,0 +1,38 @@
+# Flask & Web Framework
+Flask==3.0.0
+flask-cors==4.0.0
+Werkzeug==3.0.1
+gunicorn==21.2.0
+
+# HTTP & API Requests
+requests==2.31.0
+urllib3==2.1.0
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# Data Processing & Analysis
+networkx==3.2
+numpy==1.26.0
+pandas==2.1.0
+
+# Date & Time
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Optional: Database Support
+# Uncomment if you want to add database functionality
+# psycopg2-binary==2.9.9
+# SQLAlchemy==2.0.23
+
+# Optional: Caching
+# Uncomment if you want to add Redis caching
+# redis==5.0.1
+
+# Development Tools (Optional)
+# pytest==7.4.3
+# pytest-cov==4.1.0
+# black==23.11.0
+# flake8==6.1.0
+
+# Frontend build with Next.js includes Three.js via npm

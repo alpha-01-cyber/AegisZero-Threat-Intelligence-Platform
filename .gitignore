@@ -1,0 +1,44 @@
+# ==========================================
+# 🛑 CRITICAL SECURITY - API KEYS
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# 🐍 Python (Flask Backend) Caches & Env
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# ==========================================
+# ⚛️ JavaScript/TypeScript (Next.js Frontend)
+# ==========================================
+node_modules/
+.next/
+out/
+build/
+dist/
+.nft/
+*.tsbuildinfo
+
+# ==========================================
+# 📋 Generated Reports & OS Files
+# ==========================================
+*.pdf
+*.xlsx
+*.docx
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
